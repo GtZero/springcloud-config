@@ -15,7 +15,7 @@ spring:
 eureka:
     client:
         service-url:
-            defaultZone: http://www.springeureka01.com:7001/eureka,http://www.springeureka02.com:7002/eureka,http://www.springeureka03.com:7003/eureka
+            defaultZone: http://www.springeureka01.com:7001/eureka,http://www.springeureka02.com:7002/eureka,http://www.springeureka03.com:7003/eureka,http://www.springeureka04.com:7004/eureka
         
 ---
 server:
