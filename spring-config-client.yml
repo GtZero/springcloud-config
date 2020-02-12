@@ -5,7 +5,7 @@ spring:
 
 ---
 server:
-    port: 8203
+    port: 8201
 
 spring:
     profiles: dev
@@ -17,7 +17,7 @@ eureka:
         service-url:
             defaultZone: http://www.springeureka01.com:7001/eureka,http://www.springeureka02.com:7002/eureka,http://www.springeureka03.com:7003/eureka
 guotao:
-  msg: -ll
+  msg: -ll2233
 ---
 server:
     port: 8202
