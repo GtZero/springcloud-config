@@ -16,7 +16,8 @@ eureka:
     client:
         service-url:
             defaultZone: http://www.springeureka01.com:7001/eureka,http://www.springeureka02.com:7002/eureka,http://www.springeureka03.com:7003/eureka
-        
+guotao:
+  msg: ll
 ---
 server:
     port: 8202
